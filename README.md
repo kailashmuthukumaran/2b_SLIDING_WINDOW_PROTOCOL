@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## NAME : Vinolia Alaina .R
-## REGISTER NUMBER : 212224240184
+## NAME : KAILASH SM 
+## REGISTER NUMBER : 212222040068
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
@@ -74,20 +74,11 @@ c.close()
 ```
 ## OUPUT
 
-### server
-![Screenshot 2025-03-13 103808](https://github.com/user-attachments/assets/f6ac4127-2754-4133-b70d-6e2c2ee01363)
+### client and server:-
+![image](https://github.com/user-attachments/assets/46b896be-336b-4700-b16a-70ed94460ac7)
 
 
 
-
-
-
-
-
-.
-
-### client
-![Screenshot 2025-03-13 103816](https://github.com/user-attachments/assets/36358ef9-3c0f-400e-a98c-cb80c329a3ed)
 
 
 
